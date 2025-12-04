@@ -7,7 +7,7 @@ Track possessed players and access upcoming features in one hub.
 Copy and paste this code into your executor:
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ThawaBR/PossessionHub/refs/heads/main/source"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/WAV1991/PossessionHub/refs/heads/main/source"))()
 ```
 ## Features
 - Player:
